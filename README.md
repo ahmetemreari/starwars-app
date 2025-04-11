@@ -44,7 +44,7 @@ This project is a web application that lists, allows searching, and displays det
 
 1. Projeyi klonlayın:
 ```bash
-git clone [repo-url]
+git clone [https://github.com/ahmetemreari/starwars-app]
 ```
 
 2. Proje dizinine gidin:
@@ -68,7 +68,7 @@ npm run dev
 
 1. Clone the project:
 ```bash
-git clone [repo-url]
+git clone [https://github.com/ahmetemreari/starwars-app]
 ```
 
 2. Navigate to the project directory:
